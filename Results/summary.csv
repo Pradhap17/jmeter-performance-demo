@@ -1,0 +1,5 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Open Homepage,250,40,11,1049,106.62,0.000%,25.04759,41.48,2.91,1695.8
+Login Request,250,22,11,701,51.72,0.000%,26.49709,43.88,3.08,1695.8
+Product Page,250,17,11,258,16.24,0.000%,26.51676,43.91,3.08,1695.8
+TOTAL,750,26,11,1049,69.77,0.000%,74.94754,124.11,8.71,1695.8
